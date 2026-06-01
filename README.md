@@ -86,7 +86,7 @@ The objective of this project is to analyze credit card customer data and genera
 
 ## Dashboard Preview
 
-![Credit Card Customer Report Dashboard]((https://github.com/michaelstern25/Credit_Card_Financial_Dashboard/blob/main/Creadit_Card_Report.pdf))
+![Dashboard Preview]((https://github.com/michaelstern25/Credit_Card_Financial_Dashboard/blob/main/Creadit_Card_Report.pdf))
 
 ---
 
